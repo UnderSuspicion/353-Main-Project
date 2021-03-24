@@ -1,1 +1,3 @@
 # 353-Main-Project
+COVID-19 Public Health Care System (C19PHCS) Continued...
+An extention of our warm up project with the additions of a UI, symptom records, and a messaging system.
